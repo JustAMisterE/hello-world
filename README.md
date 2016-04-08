@@ -1,7 +1,9 @@
 # hello-world
 Well, I might a well Git-started, eh? 
 My profile is me eating an "APPLE" I'm an official "Hybrid, full stack developer". 
-Actually the "Apple-device-trend" bit me.
+Actually the "Apple-device-trend" bit me. Now I'm a Hybrid PC-Apple.
+The first distorted photo an Apple computer took of me.
+(photo taken years ago in an Apple store, before I even owned any apple)
 
 Visual aesthetics and coding efficiencey go hand-in-hand for a rewarding User eXperience,
 and a rewarding developer experience. My expertise and experience continually has addressed both
