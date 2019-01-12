@@ -25,5 +25,5 @@ Will singularity eventualy happen, not exactly, but close enough.
 It's funny that the internet makes people think similar theories.
 The matrix idea wasn't and couldn't have been thought of until the expansion of the net.
 Think outside the box. Think outside the www-web you're in.
-Hello...
-World!
+Hello...World!
+Never say never...
