@@ -27,3 +27,15 @@ The matrix idea wasn't and couldn't have been thought of until the expansion of 
 Think outside the box. Think outside the www-web you're in.
 Hello...
 World!
+
+Well, I'm FINALLY back and ready to share stuff.
+
+BTW for anyone writing their first code, I proclaim  it should hereafter be
+"Hello Internet World". It's more correct.
+
+I was right about my prediction of AI many years ago. More info, soon.
+
+Just remember AI can be TWO acronyms,
+1) Artificial Intellegence
+2) Actual Intellegence
+3) Intelligence and Consciousness are not well defined.
